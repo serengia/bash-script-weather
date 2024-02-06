@@ -1,2 +1,2 @@
 # Bash scripting
-Introduction to bash scripting
+A simple bashscript weather app
